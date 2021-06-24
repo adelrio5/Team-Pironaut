@@ -1,7 +1,7 @@
 # Team-Pironaut
 Team Pironaut - Mission Space Lab 2021
 
-Hello! We are Team Pironaut from the Mission Space Lab 2021 competition!
+Hello! We are Team Pironaut participating in the Mission Space Lab 2021 competition!
 
 Our team's GitHub repository contains all the files used to run the experiment and process and visualise the obtained data.
 
