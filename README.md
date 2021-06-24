@@ -3,7 +3,7 @@ Team Pironaut - Mission Space Lab 2021
 
 Hello! We are Team Pironaut participating in the Mission Space Lab 2021 competition!
 
-Our team's GitHub repository contains all the files used to run the experiment and process and visualise the obtained data.
+Our team's GitHub repository contains all the files used to run the experiment and process and visualise the obtained data for Phases 1-4 of the competition.
 
 This repository contains the following files:
   1. All the scripts, data, and files received after having our experiment run on the ISS
